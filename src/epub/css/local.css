@@ -1,6 +1,32 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+*[epub|type~="z3998:letter"]{
+	margin: 1em;
+}
+
+*[epub|type~="z3998:letter"] + p,
+p[epub|type~="z3998:salutation"],
+p[epub|type~="z3998:salutation"] + p,
+*[epub|type~="z3998:letter"] p:first-child{
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:letter"] header{
+	text-align: right;
+	font-style: italic;
+}
+
+p[epub|type~="z3998:salutation"],
+p[epub|type~="z3998:valediction"]{
+	font-variant: small-caps;
+}
+
+p[epub|type~="z3998:valediction"],
+*[epub|type~="z3998:letter"] footer{
+	text-align: right;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
