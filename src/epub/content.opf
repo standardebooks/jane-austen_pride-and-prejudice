@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-02-04T05:47:32Z</meta>
+		<meta property="dcterms:modified">2015-02-09T03:37:10Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/42671</dc:source>
 		<dc:source>http://archive.org/stream/novelstextbasedo02austuoft</dc:source>
-		<meta property="se:word-count">122919</meta>
+		<meta property="se:word-count">122796</meta>
 		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Pride_and_prejudice</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
 		<meta property="file-as" refines="#author">Austen, Jane</meta>

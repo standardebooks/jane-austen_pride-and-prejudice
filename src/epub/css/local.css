@@ -26,10 +26,3 @@ p[epub|type~="z3998:valediction"],
 *[epub|type~="z3998:letter"] footer{
 	text-align: right;
 }
-
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html),
-abbr{
-	background: #C0C0C0;
-}
