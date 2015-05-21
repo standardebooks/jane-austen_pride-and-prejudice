@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice</dc:identifier>
-		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-08T23:04:49Z</meta>
+		<dc:date>2015-05-12T00:01:00Z</dc:date>
+		<meta property="dcterms:modified">2015-05-21T06:06:50Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -47,19 +47,21 @@
 		<dc:creator id="author">Jane Austen</dc:creator>
 		<meta property="file-as" refines="#author">Austen, Jane</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jane Austen</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jane_Austen</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jane_Austen</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79032879.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="editor">R. W. Chapman</dc:contributor>
 		<meta property="file-as" refines="#editor">Chapman, R. W.</meta>
 		<meta property="se:name.person.full-name" refines="#editor">Robert William Chapman</meta>
-		<meta property="se:url.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Robert_William_Chapman_%28scholar%29</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Robert_William_Chapman_%28scholar%29</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50036656.html</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Edmund Leighton</dc:contributor>
-		<meta property="file-as" refines="#artist">Leighton, Edmund</meta>
+ 		<meta property="file-as" refines="#artist">Leighton, Edmund</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Edmund Blair Leighton</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
+ 		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr94034866</meta>
-		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+ 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
