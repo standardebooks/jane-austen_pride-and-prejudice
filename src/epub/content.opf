@@ -41,7 +41,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/42671</dc:source>
-		<dc:source>http://archive.org/stream/novelstextbasedo02austuoft</dc:source>
+		<dc:source>http://catalog.hathitrust.org/Record/000429470</dc:source>
 		<meta property="se:word-count">122796</meta>
 		<meta property="se:reading-ease.flesch">61.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pride_and_prejudice</meta>
