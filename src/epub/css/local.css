@@ -30,3 +30,7 @@ p[epub|type~="z3998:valediction"],
 [epub|type~="z3998:letter"] footer{
 	text-align: right;
 }
+
+.signature{
+	font-variant: small-caps;
+}
