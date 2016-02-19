@@ -45,6 +45,7 @@
 		<meta property="se:word-count">122679</meta>
 		<meta property="se:reading-ease.flesch">61.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pride_and_prejudice</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_pride-and-prejudice</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
 		<meta property="file-as" refines="#author">Austen, Jane</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jane Austen</meta>
