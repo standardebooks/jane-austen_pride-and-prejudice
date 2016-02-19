@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-11-26T01:50:01Z</meta>
+		<meta property="dcterms:modified">2016-02-19T01:01:16Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,16 +33,16 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1342</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1342</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A novel of manners in which five women try to adjust to their new neighbor, an eligible Regency-era gentlemen.</dc:description>
+		<dc:description id="description">A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentlemen.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			Nothing yet
+			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of Jane Austen&amp;rsquo;s most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813.  The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42671</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/000429470</dc:source>
-		<meta property="se:word-count">122796</meta>
+		<meta property="se:word-count">122679</meta>
 		<meta property="se:reading-ease.flesch">61.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pride_and_prejudice</meta>
 		<dc:creator id="author">Jane Austen</dc:creator>
