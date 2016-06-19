@@ -38,6 +38,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of Jane Austen&amp;rsquo;s most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813.  The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
+			&lt;p&gt;This edition removes Austen&rsquo;s habitual and archaic use of period-dashes to make the reading smoother for modern readers.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
