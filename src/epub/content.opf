@@ -38,7 +38,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of Jane Austen&amp;rsquo;s most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813.  The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
-			&lt;p&gt;This edition removes Austen&rsquo;s habitual and archaic use of period-dashes to make the reading smoother for modern readers.&lt;/p&gt;
+			&lt;p&gt;This edition removes Austen&amp;rsquo;s habitual and archaic use of period-dashes to make the reading smoother for modern readers.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -61,11 +61,11 @@
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50036656.html</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Edmund Leighton</dc:contributor>
- 		<meta property="file-as" refines="#artist">Leighton, Edmund</meta>
+		<meta property="file-as" refines="#artist">Leighton, Edmund</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Edmund Blair Leighton</meta>
- 		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
+		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr94034866</meta>
- 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
