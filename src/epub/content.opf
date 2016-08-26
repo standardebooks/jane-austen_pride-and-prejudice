@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-06-03T23:12:30Z</meta>
-		<meta property="se:revision-number">19</meta>
+		<meta property="dcterms:modified">2016-08-26T22:47:18Z</meta>
+		<meta property="se:revision-number">20</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,7 +44,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42671</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000429470</dc:source>
-		<meta property="se:word-count">122678</meta>
+		<meta property="se:word-count">122653</meta>
 		<meta property="se:reading-ease.flesch">61.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pride_and_prejudice</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_pride-and-prejudice</meta>
@@ -52,13 +52,13 @@
 		<meta property="file-as" refines="#author">Austen, Jane</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jane Austen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jane_Austen</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79032879.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79032879</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="editor">R. W. Chapman</dc:contributor>
 		<meta property="file-as" refines="#editor">Chapman, R. W.</meta>
 		<meta property="se:name.person.full-name" refines="#editor">Robert William Chapman</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Robert_William_Chapman_%28scholar%29</meta>
-		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50036656.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50036656</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Edmund Leighton</dc:contributor>
 		<meta property="file-as" refines="#artist">Leighton, Edmund</meta>
