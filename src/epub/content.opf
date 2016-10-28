@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-08-26T22:47:18Z</meta>
-		<meta property="se:revision-number">20</meta>
+		<meta property="dcterms:modified">2016-10-28T19:02:41Z</meta>
+		<meta property="se:revision-number">21</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -60,9 +60,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Robert_William_Chapman_%28scholar%29</meta>
 		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50036656</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
-		<dc:contributor id="artist">Edmund Leighton</dc:contributor>
-		<meta property="file-as" refines="#artist">Leighton, Edmund</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Edmund Blair Leighton</meta>
+		<dc:contributor id="artist">Edmund Blair Leighton</dc:contributor>
+		<meta property="file-as" refines="#artist">Leighton, Edmund Blair</meta>
 		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr94034866</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
