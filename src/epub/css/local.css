@@ -11,8 +11,7 @@ abbr.name{
 
 [epub|type~="z3998:letter"] + p,
 p[epub|type~="z3998:salutation"],
-p[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] p:first-child{
+p[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
