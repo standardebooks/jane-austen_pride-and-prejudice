@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Pride and Prejudice</dc:title>
 		<meta property="file-as" refines="#title">Pride and Prejudice</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
@@ -36,21 +36,26 @@
 		<dc:subject id="subject-5">Domestic fiction</dc:subject>
 		<dc:subject id="subject-6">Courtship -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Social classes -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1342</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1342</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1342</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1342</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1342</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1342</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1342</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008114026</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008111400</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh86004353</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008100298</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008111427</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentlemen.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of Jane Austen’s most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813. The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
 			&lt;p&gt;This edition removes Austen’s pathological use of period-dashes and many ungrammatical commas to make the reading smoother for modern readers.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42671</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000429470</dc:source>
