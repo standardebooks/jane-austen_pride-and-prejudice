@@ -53,7 +53,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentlemen.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of lt;a href="https://standardebooks.org/ebooks/jane-austen">Jane Austen’s&lt;/a&gt; most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813. The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen’s&lt;/a&gt; most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813. The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
 			&lt;p&gt;This edition removes Austen’s pathological use of period-dashes and many ungrammatical commas to make the reading smoother for modern readers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
