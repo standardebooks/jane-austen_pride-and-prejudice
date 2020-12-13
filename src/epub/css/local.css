@@ -21,8 +21,8 @@ p[epub|type~="z3998:valediction"]{
 	font-variant: small-caps;
 }
 
-p[epub|type~="z3998:valediction"],
-[epub|type~="z3998:letter"] footer{
+footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
