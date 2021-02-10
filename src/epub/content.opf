@@ -51,7 +51,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008111427</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
 		<dc:description id="description">A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentleman.</dc:description>
