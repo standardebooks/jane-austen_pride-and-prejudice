@@ -79,7 +79,7 @@
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Edmund Blair Leighton</dc:contributor>
 		<meta property="file-as" refines="#artist">Leighton, Edmund Blair</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Leighton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr94034866</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
