@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/42671</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000429470</dc:source>
 		<meta property="se:production-notes">This edition removes Austen’s pathological use of period-dashes and many ungrammatical commas to make the reading smoother for modern readers.</meta>
-		<meta property="se:word-count">122657</meta>
+		<meta property="se:word-count">122656</meta>
 		<meta property="se:reading-ease.flesch">60.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pride_and_prejudice</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jane-austen_pride-and-prejudice</meta>
