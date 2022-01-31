@@ -12,8 +12,8 @@ p[epub|type~="z3998:salutation"] + p{
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: right;
 	font-style: italic;
+	text-align: right;
 }
 
 p[epub|type~="z3998:salutation"],
