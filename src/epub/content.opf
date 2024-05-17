@@ -53,6 +53,8 @@
 		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">11</meta>
+		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentleman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen’s&lt;/a&gt; most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813. The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
