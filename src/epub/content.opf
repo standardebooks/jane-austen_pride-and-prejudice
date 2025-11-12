@@ -103,9 +103,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">edt</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">edt</meta>
 		<dc:contributor id="producer-2">Alina Pyzowski</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Pyzowski, Alina</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
