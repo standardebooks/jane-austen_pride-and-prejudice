@@ -60,7 +60,7 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">9</meta>
-		<dc:abstract>A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentleman.</dc:abstract>
+		<meta property="schema:abstract">A Regency-era novel of manners in which five women try to adjust to their new neighbor, an eligible gentleman.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Pride and Prejudice&lt;/i&gt; may today be one of &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen’s&lt;/a&gt; most enduring novels, having been widely adapted to stage, screen, and other media since its publication in 1813. The novel tells the tale of five unmarried sisters and how their lives change when a wealthy eligible bachelor moves in to their neighborhood.&lt;/p&gt;
 		</dc:description>
