@@ -30,13 +30,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Pride and Prejudice</dc:title>
 		<meta property="file-as" refines="#title">Pride and Prejudice</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
-		<dc:subject id="subject-4">Sisters -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Sisters--Fiction</dc:subject>
 		<dc:subject id="subject-5">Domestic fiction</dc:subject>
-		<dc:subject id="subject-6">Courtship -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Social classes -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Courtship--Fiction</dc:subject>
+		<dc:subject id="subject-7">Social classes--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
